@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/oseiasal/teste-ebac-ui/issues"
   },
-  "homepage": "https://github.com/oseiasal/teste-ebac-ui#readme"
+  "homepage": "https://github.com/oseiasal/teste-ebac-ui#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
 }
