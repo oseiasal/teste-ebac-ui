@@ -6,7 +6,6 @@ describe('Testar as funcionalidades de login', () => {
 
   beforeEach(() => {
     cy.visit('http://lojaebac.ebaconline.art.br/minha-conta/')
-
   });
 
   it('Ao logar, verificar se chegou na página minha conta', () => {
